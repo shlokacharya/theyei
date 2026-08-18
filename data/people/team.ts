@@ -138,6 +138,11 @@ const team: Member[] = [
     linkedin: 'samara-hamza-6645b0386',
   },
   {
+    name: 'Goutham Muvva',
+    positions: ['Sponsorship and Grant Coordinator'],
+    linkedin: 'goutham-muvva-223920429',
+  },
+  {
     name: 'Linus Li',
     positions: ['YEI Podcast Co-Director'],
     linkedin: 'linus-li-6295042a2',
