@@ -299,6 +299,11 @@ const team: Member[] = [
     positions: ['Marketing Specialist'],
   },
   {
+    name: 'Triya Hubli',
+    positions: ['Marketing Specialist'],
+    linkedin: 'triya-hubli-41220131a',
+  },
+  {
     name: 'Jaden Kang',
     positions: ['Marketing Specialist'],
   },
