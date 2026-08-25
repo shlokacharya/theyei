@@ -610,6 +610,11 @@ const clubs = [
     email: 'herberthenryhs@theyei.org',
     region: 'Midland, Michigan, USA',
   },
+  {
+    name: 'Modern Montessori School',
+    email: 'modernmontessoris@theyei.org',
+    region: 'Amman,Jordan',
+  },
 ]
 
 export default clubs
