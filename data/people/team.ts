@@ -261,6 +261,11 @@ const team: Member[] = [
     linkedin: 'andrea-yeo-209802423',
   },
   {
+    name: 'Angel Sarah',
+    positions: ['Team Ambassador'],
+    linkedin: 'angelsarahz',
+  },
+  {
     name: 'Kayla Anderson',
     positions: ['Marketing Specialist'],
     linkedin: '-kayla-anderson-',
