@@ -266,6 +266,11 @@ const team: Member[] = [
     linkedin: 'angelsarahz',
   },
   {
+    name: 'Fatima Faisal',
+    positions: ['Team Ambassador'],
+    linkedin: 'fatima-faisal-614455366',
+  },
+  {
     name: 'Kayla Anderson',
     positions: ['Marketing Specialist'],
     linkedin: '-kayla-anderson-',
