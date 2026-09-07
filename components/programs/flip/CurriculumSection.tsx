@@ -53,7 +53,7 @@ export default function CurriculumSection({
         </div>
 
           <div className="mt-12 sm:mt-16 lg:mt-0 px-4 md:px-8 lg:px-0 lg:m-0 flex items-center content-center justify-center flex-col">
-            href={folderLink ? folderLink : undefined}
+           <a href={folderLink ? folderLink : undefined}
             target={folderLink ? '_blank' : undefined}
             rel={folderLink ? 'noopener noreferrer' : undefined}
             className="w-full flex justify-center"
