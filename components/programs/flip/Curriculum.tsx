@@ -29,6 +29,8 @@ export default function Curriculum() {
          />
         <CurriculumSection
           title="AP Business with Personal Finance Curriculum"
+          //slideLink="https://docs.google.com/document/d/1gwDgAPGvQER0twN0w0UeBGROEPogpJ6O36ZVu-fcNZs/edit?tab=t.0"
+          folderLink="https://docs.google.com/document/d/1gwDgAPGvQER0twN0w0UeBGROEPogpJ6O36ZVu-fcNZs/edit?tab=t.0"
           content=
           {
             <p>
@@ -38,8 +40,7 @@ export default function Curriculum() {
             unit, you'll learn business and personal finance concepts at the AP level while applying them to real-world decision-making scenarios. 
             The course spans 5 units, starting with a detailed multi-part introduction, each built around a slide deck followed by a 
             hands-on simulation guide to lock in content. This course is designed to be taught over a semester. By Satya Dindi, Deniz Yaveroglu."
-            //slideLink="https://docs.google.com/document/d/1gwDgAPGvQER0twN0w0UeBGROEPogpJ6O36ZVu-fcNZs/edit?tab=t.0"
-            folderLink="https://docs.google.com/document/d/1gwDgAPGvQER0twN0w0UeBGROEPogpJ6O36ZVu-fcNZs/edit?tab=t.0"
+            
           </p>
           }
         />
