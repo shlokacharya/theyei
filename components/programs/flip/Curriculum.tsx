@@ -8,6 +8,7 @@ export default function Curriculum() {
       <div className="max-w-7xl mx-auto py-12 px-4 sm:py-20 sm:px-6 lg:px-8">
          <CurriculumSection
          title="50 Things You Shouldn't Learn the Hard Way"
+         darkerBg={true}
          imageLink="https://static.tildacdn.net/tild3533-6633-4363-b561-623239313561/og-image-50things.jpg"
          caption="A Teen's User Manual for Money"
          folderLink="https://moneymanual.org/"
@@ -26,6 +27,22 @@ export default function Curriculum() {
            </p>
            }
          />
+        <CurriculumSection
+          title="AP Business with Personal Finance Curriculum"
+          content=
+          {
+            <p>
+            "Have you ever wondered what it actually takes to run a business or how to protect your money and 
+            data in an increasingly digital economy? You can learn that and more with the YEI AP Business with 
+            Personal Finance curriculum! By using our tailored slides paired with personalized simulations for every 
+            unit, you'll learn business and personal finance concepts at the AP level while applying them to real-world decision-making scenarios. 
+            The course spans 5 units, starting with a detailed multi-part introduction, each built around a slide deck followed by a 
+            hands-on simulation guide to lock in content. This course is designed to be taught over a semester. By Satya Dindi, Deniz Yaveroglu."
+            //slideLink="https://docs.google.com/document/d/1gwDgAPGvQER0twN0w0UeBGROEPogpJ6O36ZVu-fcNZs/edit?tab=t.0"
+            folderLink="https://docs.google.com/document/d/1gwDgAPGvQER0twN0w0UeBGROEPogpJ6O36ZVu-fcNZs/edit?tab=t.0"
+          </p>
+          }
+        />
         <CurriculumSection
           title="9-Module Middle School Curriculum"
           darkerBg={true}
