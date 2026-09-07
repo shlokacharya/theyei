@@ -100,7 +100,7 @@ const team: Member[] = [
   },
   {
     name: 'Afra Miao',
-    positions: ['Sponsorship and Grant Coordinator'],
+    positions: ['Finance Director'],
     linkedin: 'afra-miao-0080a2396',
   },
   {
