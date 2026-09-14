@@ -117,13 +117,13 @@ export default function Hero() {
                   through Zoom. Written round qualifiers be at 4:00 pm PST for
                   finalists.
                 </p>
-                <AnchorLink
+                {/*<AnchorLink
                   href="#register"
                   offset={100}
                   className="mt-4 inline-flex w-auto items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-yei-primary-main hover:bg-opacity-90 sm:px-8"
                 >
                   Register!
-                </AnchorLink> 
+                </AnchorLink> */}
                 <a
                   href="https://docs.google.com/forms/d/e/1FAIpQLSfCgJTezqUMqQf0bs6zZlns61p5mdCEjA2yO7tl8dVmW__Afg/viewform"
                   className="mt-4 inline-flex w-auto items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-yei-primary-main hover:bg-opacity-90 sm:px-8"
