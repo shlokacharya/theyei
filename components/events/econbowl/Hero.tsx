@@ -114,7 +114,7 @@ export default function Hero() {
                     (UTC−8).
                   </b>{' '}
                   The competition will be held on November 14, 9:00 AM PST
-                  through Zoom. Written round qualifiers be at 4:00 pm PST for
+                  through Zoom. The Quiz Bowl Round will begin at 4:00 pm PST for 
                   finalists.
                 </p>
                 {/*<AnchorLink
