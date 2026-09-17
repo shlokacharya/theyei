@@ -78,7 +78,11 @@ const team: Member[] = [
     name: 'Mahesh Yandra',
     positions: ['FLIP Curriculum Developer'],
     linkedin: 'mahesh-y-b96716334',
-  },  
+  },
+  {
+    name: 'Prahalad Setty',
+    positions: ['FLIP Partnership Manager '],
+  }, 
   {
     name: 'Kioni Chong',
     positions: ['Sponsorship and Grant Coordinator'],
