@@ -332,10 +332,6 @@ const team: Member[] = [
     linkedin: 'triya-hubli-41220131a',
   },
   {
-    name: 'Jaden Kang',
-    positions: ['Marketing Specialist'],
-  },
-   {
     name: 'Dhruv Athalye',
     positions: ['Web Developer'],
     linkedin: 'dhruvathalye',
