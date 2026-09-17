@@ -615,6 +615,11 @@ const clubs = [
     email: 'modernmontessoris@theyei.org',
     region: 'Amman,Jordan',
   },
+   {
+    name: 'Alpharetta High School',
+    email: 'alpharetta@theyei.org',
+    region: 'Georgia',
+  },
 ]
 
 export default clubs
