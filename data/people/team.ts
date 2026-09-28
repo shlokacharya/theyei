@@ -147,6 +147,11 @@ const team: Member[] = [
     linkedin: 'goutham-muvva-223920429',
   },
   {
+    name: 'Yeonseo Shin',
+    positions: ['Sponsorship and Grant Coordinator'],
+    linkedin: 'yeonseo-shin-8aa4a8366',
+  },
+  {
     name: 'Linus Li',
     positions: ['YEI Podcast Co-Director'],
     linkedin: 'linus-li-6295042a2',
