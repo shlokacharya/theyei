@@ -5,10 +5,10 @@ import {
 import { useRouter } from "next/router";
 
 const data = {
-    primary: "YEI just published a new book:",
-    secondary: '"50 Things You Shouldn\'t Learn the Hard Way"',
-    linkText: "Read it here",
-    link: "https://moneymanual.org/",
+    primary: "EconBowl is open for 2026:",
+    secondary: '" "',
+    linkText: "Register",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSfCgJTezqUMqQf0bs6zZlns61p5mdCEjA2yO7tl8dVmW__Afg/viewform",
     enabled: true
 }
 
