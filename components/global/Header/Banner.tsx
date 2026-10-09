@@ -6,7 +6,7 @@ import { useRouter } from "next/router";
 
 const data = {
     primary: "EconBowl is open for 2026:",
-    secondary: '" "',
+    secondary: '',
     linkText: "Register",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSfCgJTezqUMqQf0bs6zZlns61p5mdCEjA2yO7tl8dVmW__Afg/viewform",
     enabled: true
