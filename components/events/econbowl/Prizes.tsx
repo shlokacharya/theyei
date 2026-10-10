@@ -19,7 +19,7 @@ export default function Prizes() {
               </span>
             </dt>
             <dd className="order-1 text-7xl font-extrabold text-white">
-              $<CountUpOnce number={500} />
+              $<CountUpOnce number={300} />
             </dd>
           </div>
 
@@ -30,7 +30,7 @@ export default function Prizes() {
               </span>
             </dt>
             <dd className="order-1 text-6xl font-extrabold text-gray-200">
-              $<CountUpOnce number={300} />
+              $<CountUpOnce number={200} />
             </dd>
           </div>
 
@@ -41,7 +41,7 @@ export default function Prizes() {
               </span>
             </dt>
             <dd className="order-1 text-5xl font-extrabold text-gray-300">
-              $<CountUpOnce number={200} />
+              $<CountUpOnce number={100} />
             </dd>
           </div>
         </dl>
