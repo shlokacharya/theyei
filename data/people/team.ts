@@ -298,10 +298,15 @@ const team: Member[] = [
     positions: ['Team Ambassador'],
     linkedin: 'fatima-faisal-614455366',
   },
-   {
+  {
     name: 'Connor Gunawan',
     positions: ['Team Ambassador'],
     linkedin: 'connor-gunawan-719260360',
+  },
+  {
+    name: 'Ryden Chua',
+    positions: ['Team Ambassador'],
+    linkedin: 'ryden-chua-8845b2408',
   },
   {
     name: 'Kayla Anderson',
