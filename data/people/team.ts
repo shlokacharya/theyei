@@ -234,6 +234,11 @@ const team: Member[] = [
     linkedin: 'akshat-ranjan-b42416358',
   },
   {
+    name: 'Rishith Bethina',
+    positions: ['Curriculum Developer'],
+    linkedin: 'rishith-bethina-732449292',
+  },
+  {
     name: 'Benjamin Zheng',
     positions: ['Event Coordinator'],
     linkedin: 'benjamin-zheng-261346396',
