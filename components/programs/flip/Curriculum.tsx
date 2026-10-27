@@ -12,6 +12,16 @@ export default function Curriculum() {
          imageLink="https://static.tildacdn.net/tild3533-6633-4363-b561-623239313561/og-image-50things.jpg"
          caption="A Teen's User Manual for Money"
          folderLink="https://moneymanual.org/"
+         ctaBtn={
+            <a
+              href="/files/FLIP-Teachers-Guide.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center px-5 py-3 rounded-md text-white bg-yei-primary-main hover:opacity-90 font-medium"
+            >
+              Download the Teacher's Guide (PDF)
+            </a>
+          }
          content={
            <p>
              Written by teen author Deniz Yaveroglu and published by YEI
