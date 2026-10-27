@@ -30,7 +30,7 @@ export default function Curriculum() {
         <CurriculumSection
           title="AP Business with Personal Finance Curriculum"
           slideLink="https://docs.google.com/document/d/1gwDgAPGvQER0twN0w0UeBGROEPogpJ6O36ZVu-fcNZs/preview"
-          folderLink="https://docs.google.com/document/d/1gwDgAPGvQER0twN0w0UeBGROEPogpJ6O36ZVu-fcNZs/edit?tab=t.0"
+          //folderLink="https://docs.google.com/document/d/1gwDgAPGvQER0twN0w0UeBGROEPogpJ6O36ZVu-fcNZs/edit?tab=t.0"
           content=
           {
             <p>
