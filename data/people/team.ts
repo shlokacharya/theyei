@@ -162,6 +162,11 @@ const team: Member[] = [
     linkedin: 'medha-dinesh-97b80a36a',
   },
   {
+    name: 'Abhinav Ramakrishnan',
+    positions: ['Sponsorship and Grant Coordinator'],
+    linkedin: 'abhinav-ramakrishnan-456b4b383',
+  },
+  {
     name: 'Linus Li',
     positions: ['YEI Podcast Co-Director'],
     linkedin: 'linus-li-6295042a2',
