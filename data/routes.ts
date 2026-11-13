@@ -64,12 +64,12 @@ const routes = [
     dropRoutes: [
       { href: '/', name: 'Overview' },
       { href: '/econbowl-prep', name: 'EconBowl Prep' },
-      {
-        href: 'https://learn.theyei.org',
-        name: 'Learn',
-        newItem: true,
-        externalLink: true,
-      },
+      //{
+      //  href: 'https://learn.theyei.org',
+      //  name: 'Learn',
+      //  newItem: true,
+      //  externalLink: true,
+      //},
     ],
   },
 ]
