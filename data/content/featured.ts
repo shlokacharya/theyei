@@ -36,14 +36,14 @@ const featured = [
     subtitle: 'YEI Program',
     Component: WorkshopSlider
   },
-  {
-    title: 'Learning Portal',
-    content:
-      'YEI’s Learning Portal provides practice resources for the AP Economics exams, National Economics Challenge, EconBowl, EconOlympiad, and more.',
-    href: 'https://learn.theyei.org',
-    imgTitle: 'learning-portal',
-    subtitle: 'YEI Program',
-  },
+  //{
+  //  title: 'Learning Portal',
+  //  content:
+  //    'YEI’s Learning Portal provides practice resources for the AP Economics exams, National Economics Challenge, EconBowl, EconOlympiad, and more.',
+  //  href: 'https://learn.theyei.org',
+  //  imgTitle: 'learning-portal',
+  //  subtitle: 'YEI Program',
+  //},
   {
     title: 'WOWS',
     content:
