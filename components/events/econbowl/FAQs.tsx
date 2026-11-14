@@ -18,10 +18,10 @@ const questions = [
     q: 'What is the cost to sign up?',
     a: 'EconBowl is absolutely FREE to compete in. ',
   },
-  {
-    q: 'When does registration close?',
-    a: 'Registration will close on November 8th at 11:59pm PDT. ',
-  },
+  //{
+  //  q: 'When does registration close?',
+  //  a: 'Registration will close on November 8th at 11:59pm PDT. ',
+  //},
   {
     q: 'Will it be online?',
     a: 'Yes! To make economics as accessible as possible, EconBowl will be held virtually. ',
