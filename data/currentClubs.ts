@@ -620,6 +620,32 @@ const clubs = [
     email: 'alpharetta@theyei.org',
     region: 'Georgia',
   },
+  {
+    name: 'Jasper High School',
+    email: 'jasper@theyei.org',
+    region: 'Texas',
+  },
+  {
+    name: 'Dublin High School',
+    email: 'dublin@theyei.org',
+    region: 'Dublin, California',
+  },
+   {
+    name: 'Christian Brothers High School',
+    email: 'christianbrothers@theyei.org',
+    region: 'Sacramento, California',
+  },
+  {
+    name: 'Queens College High School',
+    email: 'queenscollege@theyei.org',
+    region: 'Nassau, Bahamas',
+  },
+  {
+    name: 'TMSA Triangle High School',
+    email: 'tmsatriangle@theyei.org',
+    region: 'North Carolina',
+  },
+  
 ]
 
 export default clubs
